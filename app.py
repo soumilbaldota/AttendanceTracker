@@ -4,7 +4,6 @@
 import os
 import streamlit as st
 import pandas as pd
-import pandas as pd
 import subprocess
 import sys
 def main():
